@@ -15,4 +15,4 @@ The Features in the Dataset are as follows:-
 - sulphates
 - alcohol
 - quality
-- 
+
